@@ -1,6 +1,6 @@
 # KPA ICT Nexus - Internal Support & Asset Portal
 
-A Next.js-based tool designed to streamline ICT support operations at Kenya Ports Authority (KPA). This unified web portal automates Level 1 administrative support tasks, allowing senior engineers to focus on complex technical issues.
+A Next.js-based tool designed to streamline ICT support operations. This unified web portal automates Level 1 administrative support tasks, allowing senior engineers to focus on complex technical issues.
 
 ## 🌟 Key Features
 
